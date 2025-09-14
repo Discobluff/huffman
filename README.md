@@ -22,7 +22,7 @@ make main
 
 ### Compression
 ```bash
-./main c "input.txt" "sortie"
+./main c "entree.txt" "sortie"
 ```
 - `entree.txt`: The file to compress.
 - `sortie` : The compressed output file.
